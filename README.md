@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Coursera DataScience course.
+Coursera DataScience Course.
